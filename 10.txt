@@ -1,5 +1,2 @@
-1000
-creating a new branch is quick AND simple.
->>>>>>> feature1
 modified
 woshi git2git2
